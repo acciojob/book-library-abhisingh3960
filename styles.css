@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.book-library {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ensure box-shadow is applied */
+}
+
+.book {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.book img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.book h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.book .author {
+    color: #777777;
+    font-size: 0.9em;
+    margin: 5px 0;
+}
+
+.book .price {
+    color: #2ecc71;
+    font-size: 1em;
+    margin: 5px 0;
+}
