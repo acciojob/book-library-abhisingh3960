@@ -25,7 +25,8 @@ img{
 }
 .price{
 	color:#777777;
-	background-color:green;
+	background-color:
+	rgb(46, 204, 113);
 	text-align:center;
 	border-radius:5px;
 }
