@@ -34,7 +34,7 @@ body {
 
 .book .price {
     color: white;
-    background-color: rgb(46, 204, 113);
+    background-color: rgba(0, 0, 0, 0);
     text-align: center;
     border-radius: 3px;
     padding: 5px;
@@ -43,6 +43,6 @@ h1{
 	text-align:center;
 }
 #price{
-	color:white;
+	color:rgba(0, 0, 0, 0);
 	border-radius:3px;
 }
